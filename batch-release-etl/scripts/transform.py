@@ -23,7 +23,7 @@ class Transform:
     def __init__(self, data):
         self.data = data
         self.transformed_data = None
-        self.today = datetime.datetime.now().strftime('%Y-%m-%d')
+        self.today = datetime.datetime.now().strftime('%Y-%m-%d %H:%M:%S')
 
     def google_maps_api(self):
         self.data['lat'] = self.data['lat'].round(6)
@@ -69,6 +69,9 @@ class Transform:
   
             self.transformed_data = self.data
             self.transformed_data.to_csv('data/transformed/openweathermap_transformed.csv', index=False)
+
+            self.failed_data = self.transformed_data[(self.transformed_data['match_address'] == False) & (self.transformed_data['match_city'] == False) & (self.transformed_data['match_country'] == False)]
+            self.failed_data.to_csv('data/failed/failed_data.csv', index=False)
 
             self.transformed_data = self.transformed_data[(self.transformed_data['match_address'] == True) | (self.transformed_data['match_city'] == True) | (self.transformed_data['match_country'] == True)]
             self.data = self.transformed_data.filter(['name', 'lat', 'lon', 'weather_description', 'sys_country', 'address', 'city', 'country', 'date'])
