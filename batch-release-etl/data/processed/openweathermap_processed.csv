@@ -1,7 +1,7 @@
-name,lat,lon,weather_description,sys_country,address,city,country
-San Fernando,24.824646,-98.093303,nubes,MX,San Fernando,Tamaulipas,Mexico
-Baja California,29.647522,-115.507482,algo de nubes,MX,Punta San Carlos,Baja California,Mexico
-Atlautla,19.017468,-98.728794,lluvia ligera,MX,Atlautla,State of Mexico,Mexico
-Sonora,29.197306,-110.500352,cielo claro,MX,Noria,Sonora,Mexico
-Guerrero,17.608842,-100.284628,lluvia ligera,MX,Cruz de Ocote,Guerrero,Mexico
-Campeche,19.095527,-90.508196,nubes,MX,Carrillo Puerto,Campeche,Mexico
+name,lat,lon,weather_description,sys_country,address,city,country,distance_to_cdmx,flight_hours,car_hours,flight_minutes,car_minutes,air quality
+San Fernando,24.824646,-98.093303,nubes,MX,San Fernando,Tamaulipas,Mexico,610.3,0.76,6.1,45,366,Good air quality
+Baja California,29.647522,-115.507482,algo de nubes,MX,Punta San Carlos,Baja California,Mexico,2002.1,2.5,20.02,150,1201,Good air quality
+Atlautla,19.017468,-98.728794,lluvia ligera,MX,Atlautla,State of Mexico,Mexico,64.8,0.08,0.65,4,39,Good air quality
+Sonora,29.197306,-110.500352,cielo claro,MX,Noria,Sonora,Mexico,1579.0,1.97,15.79,118,947,Good air quality
+Guerrero,17.608842,-100.284628,lluvia ligera,MX,Cruz de Ocote,Guerrero,Mexico,234.0,0.29,2.34,17,140,Excellent air quality
+Campeche,19.095527,-90.508196,nubes,MX,Carrillo Puerto,Campeche,Mexico,909.7,1.14,9.1,68,546,Excellent air quality

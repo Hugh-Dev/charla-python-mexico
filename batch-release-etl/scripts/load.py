@@ -43,7 +43,7 @@ class Load:
                     )
                 ''')
                 
-                self.data.to_sql('weather_data', conn, if_exists='append', index=False)
+                self.data.to_sql('weather_data', conn, if_exists='replace', index=False)
                 conn.commit()
                 conn.close()
                 
