@@ -185,7 +185,7 @@ También compartiremos **promociones**, noticias e información interesante sobr
 
 ## ¿Cual es el reto a enfrentar en el desarrollo del ETL del core de la APP Gepp en tus manos?
 
-![Caso de uso](../img/etl_use_case.png)
+![Caso de uso](/img/etl_use_case.png)
 
 ## Soluciones tecnicas implementadas
 
