@@ -11,19 +11,19 @@
 # Pycon Mexico 2024 - CDMX
 
 from libs import *
+
+sys.path.append(os.getcwd())
+
 from utils import config_logging
 from extract import Extract
-
-sys.path.append(os.path.abspath('/Users/psf/Projects/pylab/charla-python-mexico/batch-release-etl'))
 from config.settings import API_KEY, URL_API
-
-
 
 class Transform:
 
     def __init__(self, data):
         self.data = data
         self.transformed_data = None
+        self.today = datetime.datetime.now().strftime('%Y-%m-%d')
 
     def google_maps_api(self):
         self.data['lat'] = self.data['lat'].round(6)
@@ -63,6 +63,7 @@ class Transform:
             self.data['match_address'] = self.data['name'] == self.data['address']
             self.data['match_city'] = self.data['name'] == self.data['city']
             self.data['match_country'] = self.data['name'] == self.data['country']
+            self.data['date'] = self.today
 
             self.data = self.data.drop_duplicates()
   
@@ -70,7 +71,7 @@ class Transform:
             self.transformed_data.to_csv('data/transformed/openweathermap_transformed.csv', index=False)
 
             self.transformed_data = self.transformed_data[(self.transformed_data['match_address'] == True) | (self.transformed_data['match_city'] == True) | (self.transformed_data['match_country'] == True)]
-            self.data = self.transformed_data.filter(['name', 'lat', 'lon', 'weather_description', 'sys_country', 'address', 'city', 'country'])
+            self.data = self.transformed_data.filter(['name', 'lat', 'lon', 'weather_description', 'sys_country', 'address', 'city', 'country', 'date'])
 
             logging.info("Data transformed successfully.")
         except Exception as e:

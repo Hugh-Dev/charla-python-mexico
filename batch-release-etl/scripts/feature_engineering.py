@@ -12,7 +12,6 @@
 
 from libs import *
 
-
 class FeatureEngineering:
 
     def __init__(self, data):

@@ -12,7 +12,6 @@
 
 from libs import *
 
-
 def config_logging():
     path_logs = './logs'
     if not os.path.exists(path_logs):

@@ -11,10 +11,8 @@
 # Pycon México 2024 - CDMX
 
 from libs import *
-
-sys.path.append(os.path.abspath('/Users/psf/Projects/pylab/charla-python-mexico/batch-release-etl'))
+sys.path.append(os.getcwd())
 from config.settings import AIR_QUALITY_API
-
 
 class AirQualityAPI:
     def __init__(self, data):

@@ -24,19 +24,19 @@ def data_pipeline():
     
     try:
         print('Initializing data pipeline... 🐍​')
-        # config_logging()
-        # extract = Extract()
-        # extract.extract_data()
-        # transform = Transform(extract.data)
-        # transform.google_maps_api()
-        # transform.transform_data()
-        # feature_engineering = FeatureEngineering(transform.data)
-        # feature_engineering.feature_engineering()
-        # feature_engineering_data = feature_engineering.feature_engineering_data
-        # air_quality_api = AirQualityAPI(feature_engineering_data)
-        # air_quality_api.update_data_with_categories()
-        # load = Load(air_quality_api.data)
-        # load.load_data()
+        config_logging()
+        extract = Extract()
+        extract.extract_data()
+        transform = Transform(extract.data)
+        transform.google_maps_api()
+        transform.transform_data()
+        feature_engineering = FeatureEngineering(transform.data)
+        feature_engineering.feature_engineering()
+        feature_engineering_data = feature_engineering.feature_engineering_data
+        air_quality_api = AirQualityAPI(feature_engineering_data)
+        air_quality_api.update_data_with_categories()
+        load = Load(air_quality_api.data)
+        load.load_data()
         print('Data pipeline executed successfully! 🚀')
 
     except Exception as e:

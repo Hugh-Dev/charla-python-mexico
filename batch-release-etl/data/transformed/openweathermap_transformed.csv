@@ -1,135 +1,135 @@
-name,lat,lon,weather_description,sys_country,address,city,country,match_address,match_city,match_country
-San Francisco del Mar Viejo,15.374744,-94.708872,lluvia moderada,MX,,,,False,False,False
-Ciudad de Villaldama,26.413483,-100.408956,nubes,MX,El Potrero,Nuevo León,Mexico,False,False,False
-Bustamante,26.717232,-100.686375,muy nuboso,MX,Campo Real,Coahuila,Mexico,False,False,False
-Todos Santos,22.756953,-111.396138,cielo claro,MX,,,,False,False,False
-Luis Gil Pérez,17.877581,-93.013285,nubes,MX,Boqueron,Tabasco,Mexico,False,False,False
-Ejido Plan de Guadalupe,25.416363,-109.595606,cielo claro,MX,,,,False,False,False
-Río Grande,23.904265,-103.19461,nubes,MX,José María Morelos y Pavón,Zacatecas,Mexico,False,False,False
-San Fernando,24.824646,-98.093303,nubes,MX,San Fernando,Tamaulipas,Mexico,True,False,False
-Barra de Tecoanapa,15.874083,-98.943204,algo de nubes,MX,,,,False,False,False
-Ranas,19.395125,-87.012227,nubes,MX,,,,False,False,False
-Abasolo,20.54589,-101.522479,nubes,MX,Campo Real,Guanajuato,Mexico,False,False,False
-Copainalá,17.07658,-93.20513,nubes,MX,Chiapas 102,Chiapas,Mexico,False,False,False
-San Juan Raboso,18.591533,-98.421322,nubes,MX,San José las Bocas,Puebla,Mexico,False,False,False
-Lázaro Cárdenas,17.121091,-102.37156,nubes dispersas,MX,,,,False,False,False
-Coahuayana de Hidalgo,17.7615,-104.018649,algo de nubes,MX,,,,False,False,False
-San José del Progreso,15.020182,-98.027514,muy nuboso,MX,,,,False,False,False
-Ascención,30.971876,-107.973073,algo de nubes,MX,Ascensión,Chihuahua,Mexico,False,False,False
-Paraiso,18.730997,-93.695848,nubes,MX,,,,False,False,False
-San Diego de Alejandría,20.883457,-102.093536,muy nuboso,MX,El Pitahayo,Jalisco,Mexico,False,False,False
-Valentín Gómez Farías,28.03885,-106.260598,cielo claro,MX,San Juan Bautista,Chihuahua,Mexico,False,False,False
-Ciudad Constitución,24.305728,-111.730119,cielo claro,MX,,,,False,False,False
-Huauchinango,20.093428,-97.987764,nubes dispersas,MX,Zempoala,Puebla,Mexico,False,False,False
-Tambuco,16.535435,-100.308761,nubes,MX,,,,False,False,False
-Baja California,29.647522,-115.507482,algo de nubes,MX,Punta San Carlos,Baja California,Mexico,False,True,False
-Baja California,30.203641,-114.240746,cielo claro,MX,,,,False,False,False
-Isla Mujeres,21.931125,-86.671276,muy nuboso,MX,,,,False,False,False
-Santa Rosalía,27.5023,-112.080714,cielo claro,MX,,,,False,False,False
-Villa Ocampo,26.456053,-104.58316,nubes dispersas,MX,San Felipe,Chihuahua,Mexico,False,False,False
-Técpan de Galeana,16.787765,-100.964638,muy nuboso,MX,,,,False,False,False
-Ixtlahuacán del Río,21.056786,-103.370631,lluvia ligera,MX,La Media Luna,Jalisco,Mexico,False,False,False
-Asunción Ocotlán,16.700288,-96.735384,lluvia ligera,MX,La Noria de Ortiz,Oaxaca,Mexico,False,False,False
-San Francisco Ixhuatan,16.197322,-94.4147,lluvia moderada,MX,Reforma Agraria Integral,Oaxaca,Mexico,False,False,False
-Villa Tecolutilla,18.450176,-93.692327,lluvia ligera,MX,El Alacrán,Tabasco,Mexico,False,False,False
-Santana Viejo,25.409532,-99.69835,nubes,MX,Tlahualilo,Nuevo León,Mexico,False,False,False
-Pilar,28.416006,-110.434893,cielo claro,MX,Punta de Agua,Sonora,Mexico,False,False,False
-Mapastepec,15.567842,-92.872121,lluvia ligera,MX,Tres de Mayo,Chiapas,Mexico,False,False,False
-Acambay,19.89274,-99.823551,nubes dispersas,MX,Chanteje,Estado de México,Mexico,False,False,False
-Jiménez,28.300614,-104.961682,nubes dispersas,MX,Noriega,Chihuahua,Mexico,False,False,False
-Atlautla,19.017468,-98.728794,lluvia ligera,MX,Atlautla,State of Mexico,Mexico,True,False,False
-La Soledad,27.987484,-111.781278,cielo claro,MX,,,,False,False,False
-Sabinas,27.72568,-100.895087,nubes,MX,Borregos,Coahuila de Zaragoza,Mexico,False,False,False
-San Buenaventura,29.613436,-107.191887,cielo claro,MX,Agua Zarca,Chihuahua,Mexico,False,False,False
-Los Barriles,23.626106,-108.624663,muy nuboso,MX,,,,False,False,False
-Pánuco de Coronado,24.586665,-104.543486,muy nuboso,MX,Llano del Pino,Durango,Mexico,False,False,False
-El Sauzal de Rodríguez,31.341848,-118.093604,muy nuboso,MX,,,,False,False,False
-Isla del Bosque,22.741768,-105.930092,nubes,MX,La Puerta,Sinaloa,Mexico,False,False,False
-Pitiquito,30.632702,-112.11806,cielo claro,MX,Caborca,Sonora,Mexico,False,False,False
-Sonora,29.197306,-110.500352,cielo claro,MX,Noria,Sonora,Mexico,False,True,False
-Nuevo Progreso,22.864183,-97.124774,muy nuboso,MX,,,,False,False,False
-San Quintín,29.744422,-116.773664,cielo claro,MX,,,,False,False,False
-Mapimí,26.244757,-104.456813,muy nuboso,MX,La Enramada,Durango,Mexico,False,False,False
-Celestún,21.177935,-91.744007,lluvia ligera,MX,,,,False,False,False
-Ciudad Tula,23.253511,-99.899896,muy nuboso,MX,Magdaleno Aguilar,Tamaulipas,Mexico,False,False,False
-Lototla,20.91835,-98.858196,nubes dispersas,MX,Santo Domingo,Hidalgo,Mexico,False,False,False
-Guerrero Negro,27.955479,-114.764575,cielo claro,MX,,,,False,False,False
-Ojinaga,29.501336,-105.096707,nubes dispersas,MX,Santiago de Coyame,Chihuahua,Mexico,False,False,False
-Yalina,17.262945,-96.254277,nubes,MX,San Andrés Solaga,Oaxaca,Mexico,False,False,False
-Benito Juárez,29.662716,-107.859828,nubes dispersas,MX,Ignacio Zaragoza Municipality,Chihuahua,Mexico,False,False,False
-Kantunilkín,21.209088,-87.500967,muy nuboso,MX,San Ángel,Quintana Roo,Mexico,False,False,False
-La Primavera,25.427295,-108.243919,nubes,MX,Campo Pénjamo,Sinaloa,Mexico,False,False,False
-La Mira Tumbiscatio,18.567294,-102.254908,lluvia ligera,MX,El Cascalote,Michoacán,Mexico,False,False,False
-Isla del Bosque,22.499493,-106.258129,nubes,MX,,,,False,False,False
-Huejuquilla el Alto,22.655288,-104.446059,lluvia ligera,MX,El Maguey,Durango,Mexico,False,False,False
-Jerez de García Salinas,22.616081,-103.073348,lluvia ligera,MX,Susticacán,Zacatecas,Mexico,False,False,False
-Santa Catarina Mechoacán,16.42512,-97.695628,lluvia ligera,MX,El Coyul,Oaxaca,Mexico,False,False,False
-San Fernando,24.544654,-97.669503,nubes,MX,Punta de Alambre,Tamaulipas,Mexico,False,False,False
-Santiago Lachiguiri,16.865056,-95.373544,nubes,MX,Progreso,Oaxaca,Mexico,False,False,False
-Benemérito de las Américas,16.598421,-90.567124,lluvia ligera,MX,Palestine,Las Cruces,Petén,False,False,False
-El Confital,22.946666,-106.354737,nubes,MX,,,,False,False,False
-Camalú,30.725353,-117.496653,cielo claro,MX,,,,False,False,False
-Guerrero,17.608842,-100.284628,lluvia ligera,MX,Cruz de Ocote,Guerrero,Mexico,False,True,False
-Cuetzala del Progreso,18.009447,-99.95929,lluvia ligera,MX,Zacapostepec,Guerrero,Mexico,False,False,False
-San Cristóbal,24.951044,-97.098369,nubes,MX,,,,False,False,False
-Ciudad Constitución,24.082591,-112.336596,cielo claro,MX,,,,False,False,False
-San José del Cabo,22.636524,-108.436285,algo de nubes,MX,,,,False,False,False
-Santa Rosalía,27.135763,-112.348266,cielo claro,MX,San Venancio,Baja California Sur,Mexico,False,False,False
-Guamúchil,25.244549,-108.679929,nubes,MX,,,,False,False,False
-La Manga,29.564292,-111.280969,cielo claro,MX,Chino Alto,Sonora,Mexico,False,False,False
-Los Cochitos Palo Verde,29.043267,-110.740458,cielo claro,MX,Cruz,Sonora,Mexico,False,False,False
-Imuris,30.734931,-110.91373,cielo claro,MX,Terrenate,Sonora,Mexico,False,False,False
-Bahía de Kino,28.999831,-111.859913,cielo claro,MX,La Pradera,Sonora,Mexico,False,False,False
-Chontalpa,17.605219,-93.790911,nubes,MX,Francisco Villa,Veracruz,Mexico,False,False,False
-Santa Isabel,28.269264,-112.61845,cielo claro,MX,,,,False,False,False
-Topolobampo,25.530136,-109.299676,algo de nubes,MX,Santa María,Sinaloa,Mexico,False,False,False
-Rodeo,25.034405,-104.699324,muy nuboso,MX,El Porvenir,Durango,Mexico,False,False,False
-Mundo Nuevo (Ojo de Agua),19.691564,-94.731511,nubes,MX,,,,False,False,False
-Ranas,19.115142,-86.824143,nubes,MX,,,,False,False,False
-Huitzilac,19.092922,-99.341347,lluvia ligera,MX,Lagunas de Zempoala,Estado de México,Mexico,False,False,False
-Santa Anita,23.277156,-108.883187,muy nuboso,MX,,,,False,False,False
-Chiautla de Tapia,18.351506,-98.498484,lluvia ligera,MX,La Parota,Puebla,Mexico,False,False,False
-Ixtlán de Juárez,17.460642,-96.63692,nubes,MX,Abejones,Oaxaca,Mexico,False,False,False
-Campeche,19.095527,-90.508196,nubes,MX,Carrillo Puerto,Campeche,Mexico,False,True,False
-Guadalcázar,22.680046,-100.357364,lluvia moderada,MX,El Oro,San Luis Potosí,Mexico,False,False,False
-Benito Juárez,29.911434,-107.827213,nubes dispersas,MX,Ejido Álvaro Obregón,Chihuahua,Mexico,False,False,False
-Barra de Tecoanapa,15.702485,-99.009593,nubes dispersas,MX,,,,False,False,False
-Guerrero Negro,27.266285,-115.318506,cielo claro,MX,,,,False,False,False
-Santa Rosalía,27.519281,-112.229017,cielo claro,MX,Santa María,Baja California Sur,Mexico,False,False,False
-Rosarito,31.981683,-117.916966,nubes dispersas,MX,,,,False,False,False
-Teocuitatlán de Corona,20.130972,-103.45697,lluvia moderada,MX,San José de Gracia,Jalisco,Mexico,False,False,False
-Rodeo,25.228865,-104.896049,muy nuboso,MX,Unión y Progreso,Durango,Mexico,False,False,False
-Isla Aguada,18.947026,-91.588514,lluvia ligera,MX,,,,False,False,False
-Churumuco de Morelos,18.595306,-101.476291,algo de nubes,MX,Rincón de las Truchas,Michoacán,Mexico,False,False,False
-Churumuco de Morelos,18.582493,-101.949494,lluvia ligera,MX,Balsas,Michoacán,Mexico,False,False,False
-Progreso,22.449865,-89.658147,lluvia ligera,MX,,,,False,False,False
-Teúl de González Ortega,21.297987,-103.584528,lluvia ligera,MX,La Lagunilla,Zacatecas,Mexico,False,False,False
-Ocampo,27.903163,-103.472859,cielo claro,MX,La Concordia,Coahuila de Zaragoza,Mexico,False,False,False
-El Carrizo,24.139546,-106.836442,lluvia ligera,MX,El Aguaje,Sinaloa,Mexico,False,False,False
-Nicolás Bravo,18.82947,-89.262336,nubes,MX,Unión 20 de Junio,Campeche,Mexico,False,False,False
-Toluca,19.282733,-99.635643,algo de nubes,MX,Violeta,022,Izcalli Toluca,False,False,False
-Cabo San Lucas,21.765547,-110.010759,cielo claro,MX,,,,False,False,False
-Cintalapa de Figueroa,16.546715,-93.881642,nubes,MX,Coronel Luis Espinosa,Chiapas,Mexico,False,False,False
-Abasolo,20.411539,-101.505487,nubes,MX,Los Otates,Guanajuato,Mexico,False,False,False
-Celestún,21.550002,-91.160213,lluvia ligera,MX,,,,False,False,False
-Mina,26.133451,-100.772784,nubes,MX,San Francisco,Nuevo Leon,Mexico,False,False,False
-Cadereyta,20.839531,-99.661225,nubes dispersas,MX,El Membrillo,Querétaro,Mexico,False,False,False
-Chuta,17.23945,-102.870491,algo de nubes,MX,,,,False,False,False
-Pilar,28.549163,-110.273111,cielo claro,MX,San Marcial,Sonora,Mexico,False,False,False
-Llera de Canales,23.307046,-98.745466,nubes dispersas,MX,Estación Forlon,Tamaulipas,Mexico,False,False,False
-Palenque/Temp,17.34038,-92.065388,nubes,MX,Santa María,Chiapas,Mexico,False,False,False
-Mazatlán,22.801731,-106.83181,muy nuboso,MX,,,,False,False,False
-Etchoropo,26.577475,-110.280752,lluvia moderada,MX,,,,False,False,False
-Ciudad Juárez,31.737162,-106.450954,cielo claro,MX,Avenida Paseo Triunfo de la República,Partido Escobedo,Juárez,False,False,False
-Santa Bárbara,26.532194,-106.426919,muy nuboso,MX,Ejido la Pinta,Chihuahua,Mexico,False,False,False
-Copala,16.074216,-99.226831,nubes dispersas,MX,,,,False,False,False
-Santa Anita,23.202504,-109.704099,cielo claro,MX,San José del Cabo,Baja California Sur,Mexico,False,False,False
-Jaumave,23.255503,-99.542223,muy nuboso,MX,Palmillas,Tamaulipas,Mexico,False,False,False
-Cuetzala del Progreso,18.014921,-99.798309,lluvia ligera,MX,Balsas Sur,Guerrero,Mexico,False,False,False
-Ejido Plan de Guadalupe,25.658742,-109.245829,nubes dispersas,MX,Santa María,Sinaloa,Mexico,False,False,False
-Nuevo Progreso,23.838643,-96.677399,nubes,MX,,,,False,False,False
-Heroica Caborca,30.346001,-112.321665,cielo claro,MX,El Viejo,Sonora,Mexico,False,False,False
-Sayulita,21.133486,-105.861125,algo de nubes,MX,,,,False,False,False
-Cosalá,24.801483,-106.40609,lluvia ligera,MX,Rancho Viejo,Durango,Mexico,False,False,False
-Nuevo Progreso,23.359528,-98.13319,algo de nubes,MX,La Peña,Tamaulipas,Mexico,False,False,False
-Ciudad Insurgentes,25.409144,-112.583418,cielo claro,MX,,,,False,False,False
+name,lat,lon,weather_description,sys_country,address,city,country,match_address,match_city,match_country,date
+San Francisco del Mar Viejo,15.374744,-94.708872,lluvia moderada,MX,,,,False,False,False,2024-07-09
+Ciudad de Villaldama,26.413483,-100.408956,nubes,MX,El Potrero,Nuevo León,Mexico,False,False,False,2024-07-09
+Bustamante,26.717232,-100.686375,muy nuboso,MX,Campo Real,Coahuila,Mexico,False,False,False,2024-07-09
+Todos Santos,22.756953,-111.396138,cielo claro,MX,,,,False,False,False,2024-07-09
+Luis Gil Pérez,17.877581,-93.013285,nubes,MX,Boqueron,Tabasco,Mexico,False,False,False,2024-07-09
+Ejido Plan de Guadalupe,25.416363,-109.595606,cielo claro,MX,,,,False,False,False,2024-07-09
+Río Grande,23.904265,-103.19461,nubes,MX,José María Morelos y Pavón,Zacatecas,Mexico,False,False,False,2024-07-09
+San Fernando,24.824646,-98.093303,nubes,MX,San Fernando,Tamaulipas,Mexico,True,False,False,2024-07-09
+Barra de Tecoanapa,15.874083,-98.943204,algo de nubes,MX,,,,False,False,False,2024-07-09
+Ranas,19.395125,-87.012227,nubes,MX,,,,False,False,False,2024-07-09
+Abasolo,20.54589,-101.522479,nubes,MX,Campo Real,Guanajuato,Mexico,False,False,False,2024-07-09
+Copainalá,17.07658,-93.20513,nubes,MX,Chiapas 102,Chiapas,Mexico,False,False,False,2024-07-09
+San Juan Raboso,18.591533,-98.421322,nubes,MX,San José las Bocas,Puebla,Mexico,False,False,False,2024-07-09
+Lázaro Cárdenas,17.121091,-102.37156,nubes dispersas,MX,,,,False,False,False,2024-07-09
+Coahuayana de Hidalgo,17.7615,-104.018649,algo de nubes,MX,,,,False,False,False,2024-07-09
+San José del Progreso,15.020182,-98.027514,muy nuboso,MX,,,,False,False,False,2024-07-09
+Ascención,30.971876,-107.973073,algo de nubes,MX,Ascensión,Chihuahua,Mexico,False,False,False,2024-07-09
+Paraiso,18.730997,-93.695848,nubes,MX,,,,False,False,False,2024-07-09
+San Diego de Alejandría,20.883457,-102.093536,muy nuboso,MX,El Pitahayo,Jalisco,Mexico,False,False,False,2024-07-09
+Valentín Gómez Farías,28.03885,-106.260598,cielo claro,MX,San Juan Bautista,Chihuahua,Mexico,False,False,False,2024-07-09
+Ciudad Constitución,24.305728,-111.730119,cielo claro,MX,,,,False,False,False,2024-07-09
+Huauchinango,20.093428,-97.987764,nubes dispersas,MX,Zempoala,Puebla,Mexico,False,False,False,2024-07-09
+Tambuco,16.535435,-100.308761,nubes,MX,,,,False,False,False,2024-07-09
+Baja California,29.647522,-115.507482,algo de nubes,MX,Punta San Carlos,Baja California,Mexico,False,True,False,2024-07-09
+Baja California,30.203641,-114.240746,cielo claro,MX,,,,False,False,False,2024-07-09
+Isla Mujeres,21.931125,-86.671276,muy nuboso,MX,,,,False,False,False,2024-07-09
+Santa Rosalía,27.5023,-112.080714,cielo claro,MX,,,,False,False,False,2024-07-09
+Villa Ocampo,26.456053,-104.58316,nubes dispersas,MX,San Felipe,Chihuahua,Mexico,False,False,False,2024-07-09
+Técpan de Galeana,16.787765,-100.964638,muy nuboso,MX,,,,False,False,False,2024-07-09
+Ixtlahuacán del Río,21.056786,-103.370631,lluvia ligera,MX,La Media Luna,Jalisco,Mexico,False,False,False,2024-07-09
+Asunción Ocotlán,16.700288,-96.735384,lluvia ligera,MX,La Noria de Ortiz,Oaxaca,Mexico,False,False,False,2024-07-09
+San Francisco Ixhuatan,16.197322,-94.4147,lluvia moderada,MX,Reforma Agraria Integral,Oaxaca,Mexico,False,False,False,2024-07-09
+Villa Tecolutilla,18.450176,-93.692327,lluvia ligera,MX,El Alacrán,Tabasco,Mexico,False,False,False,2024-07-09
+Santana Viejo,25.409532,-99.69835,nubes,MX,Tlahualilo,Nuevo León,Mexico,False,False,False,2024-07-09
+Pilar,28.416006,-110.434893,cielo claro,MX,Punta de Agua,Sonora,Mexico,False,False,False,2024-07-09
+Mapastepec,15.567842,-92.872121,lluvia ligera,MX,Tres de Mayo,Chiapas,Mexico,False,False,False,2024-07-09
+Acambay,19.89274,-99.823551,nubes dispersas,MX,Chanteje,Estado de México,Mexico,False,False,False,2024-07-09
+Jiménez,28.300614,-104.961682,nubes dispersas,MX,Noriega,Chihuahua,Mexico,False,False,False,2024-07-09
+Atlautla,19.017468,-98.728794,lluvia ligera,MX,Atlautla,State of Mexico,Mexico,True,False,False,2024-07-09
+La Soledad,27.987484,-111.781278,cielo claro,MX,,,,False,False,False,2024-07-09
+Sabinas,27.72568,-100.895087,nubes,MX,Borregos,Coahuila de Zaragoza,Mexico,False,False,False,2024-07-09
+San Buenaventura,29.613436,-107.191887,cielo claro,MX,Agua Zarca,Chihuahua,Mexico,False,False,False,2024-07-09
+Los Barriles,23.626106,-108.624663,muy nuboso,MX,,,,False,False,False,2024-07-09
+Pánuco de Coronado,24.586665,-104.543486,muy nuboso,MX,Llano del Pino,Durango,Mexico,False,False,False,2024-07-09
+El Sauzal de Rodríguez,31.341848,-118.093604,muy nuboso,MX,,,,False,False,False,2024-07-09
+Isla del Bosque,22.741768,-105.930092,nubes,MX,La Puerta,Sinaloa,Mexico,False,False,False,2024-07-09
+Pitiquito,30.632702,-112.11806,cielo claro,MX,Caborca,Sonora,Mexico,False,False,False,2024-07-09
+Sonora,29.197306,-110.500352,cielo claro,MX,Noria,Sonora,Mexico,False,True,False,2024-07-09
+Nuevo Progreso,22.864183,-97.124774,muy nuboso,MX,,,,False,False,False,2024-07-09
+San Quintín,29.744422,-116.773664,cielo claro,MX,,,,False,False,False,2024-07-09
+Mapimí,26.244757,-104.456813,muy nuboso,MX,La Enramada,Durango,Mexico,False,False,False,2024-07-09
+Celestún,21.177935,-91.744007,lluvia ligera,MX,,,,False,False,False,2024-07-09
+Ciudad Tula,23.253511,-99.899896,muy nuboso,MX,Magdaleno Aguilar,Tamaulipas,Mexico,False,False,False,2024-07-09
+Lototla,20.91835,-98.858196,nubes dispersas,MX,Santo Domingo,Hidalgo,Mexico,False,False,False,2024-07-09
+Guerrero Negro,27.955479,-114.764575,cielo claro,MX,,,,False,False,False,2024-07-09
+Ojinaga,29.501336,-105.096707,nubes dispersas,MX,Santiago de Coyame,Chihuahua,Mexico,False,False,False,2024-07-09
+Yalina,17.262945,-96.254277,nubes,MX,San Andrés Solaga,Oaxaca,Mexico,False,False,False,2024-07-09
+Benito Juárez,29.662716,-107.859828,nubes dispersas,MX,Ignacio Zaragoza Municipality,Chihuahua,Mexico,False,False,False,2024-07-09
+Kantunilkín,21.209088,-87.500967,muy nuboso,MX,San Ángel,Quintana Roo,Mexico,False,False,False,2024-07-09
+La Primavera,25.427295,-108.243919,nubes,MX,Campo Pénjamo,Sinaloa,Mexico,False,False,False,2024-07-09
+La Mira Tumbiscatio,18.567294,-102.254908,lluvia ligera,MX,El Cascalote,Michoacán,Mexico,False,False,False,2024-07-09
+Isla del Bosque,22.499493,-106.258129,nubes,MX,,,,False,False,False,2024-07-09
+Huejuquilla el Alto,22.655288,-104.446059,lluvia ligera,MX,El Maguey,Durango,Mexico,False,False,False,2024-07-09
+Jerez de García Salinas,22.616081,-103.073348,lluvia ligera,MX,Susticacán,Zacatecas,Mexico,False,False,False,2024-07-09
+Santa Catarina Mechoacán,16.42512,-97.695628,lluvia ligera,MX,El Coyul,Oaxaca,Mexico,False,False,False,2024-07-09
+San Fernando,24.544654,-97.669503,nubes,MX,Punta de Alambre,Tamaulipas,Mexico,False,False,False,2024-07-09
+Santiago Lachiguiri,16.865056,-95.373544,nubes,MX,Progreso,Oaxaca,Mexico,False,False,False,2024-07-09
+Benemérito de las Américas,16.598421,-90.567124,lluvia ligera,MX,Palestine,Las Cruces,Petén,False,False,False,2024-07-09
+El Confital,22.946666,-106.354737,nubes,MX,,,,False,False,False,2024-07-09
+Camalú,30.725353,-117.496653,cielo claro,MX,,,,False,False,False,2024-07-09
+Guerrero,17.608842,-100.284628,lluvia ligera,MX,Cruz de Ocote,Guerrero,Mexico,False,True,False,2024-07-09
+Cuetzala del Progreso,18.009447,-99.95929,lluvia ligera,MX,Zacapostepec,Guerrero,Mexico,False,False,False,2024-07-09
+San Cristóbal,24.951044,-97.098369,nubes,MX,,,,False,False,False,2024-07-09
+Ciudad Constitución,24.082591,-112.336596,cielo claro,MX,,,,False,False,False,2024-07-09
+San José del Cabo,22.636524,-108.436285,algo de nubes,MX,,,,False,False,False,2024-07-09
+Santa Rosalía,27.135763,-112.348266,cielo claro,MX,San Venancio,Baja California Sur,Mexico,False,False,False,2024-07-09
+Guamúchil,25.244549,-108.679929,nubes,MX,,,,False,False,False,2024-07-09
+La Manga,29.564292,-111.280969,cielo claro,MX,Chino Alto,Sonora,Mexico,False,False,False,2024-07-09
+Los Cochitos Palo Verde,29.043267,-110.740458,cielo claro,MX,Cruz,Sonora,Mexico,False,False,False,2024-07-09
+Imuris,30.734931,-110.91373,cielo claro,MX,Terrenate,Sonora,Mexico,False,False,False,2024-07-09
+Bahía de Kino,28.999831,-111.859913,cielo claro,MX,La Pradera,Sonora,Mexico,False,False,False,2024-07-09
+Chontalpa,17.605219,-93.790911,nubes,MX,Francisco Villa,Veracruz,Mexico,False,False,False,2024-07-09
+Santa Isabel,28.269264,-112.61845,cielo claro,MX,,,,False,False,False,2024-07-09
+Topolobampo,25.530136,-109.299676,algo de nubes,MX,Santa María,Sinaloa,Mexico,False,False,False,2024-07-09
+Rodeo,25.034405,-104.699324,muy nuboso,MX,El Porvenir,Durango,Mexico,False,False,False,2024-07-09
+Mundo Nuevo (Ojo de Agua),19.691564,-94.731511,nubes,MX,,,,False,False,False,2024-07-09
+Ranas,19.115142,-86.824143,nubes,MX,,,,False,False,False,2024-07-09
+Huitzilac,19.092922,-99.341347,lluvia ligera,MX,Lagunas de Zempoala,Estado de México,Mexico,False,False,False,2024-07-09
+Santa Anita,23.277156,-108.883187,muy nuboso,MX,,,,False,False,False,2024-07-09
+Chiautla de Tapia,18.351506,-98.498484,lluvia ligera,MX,La Parota,Puebla,Mexico,False,False,False,2024-07-09
+Ixtlán de Juárez,17.460642,-96.63692,nubes,MX,Abejones,Oaxaca,Mexico,False,False,False,2024-07-09
+Campeche,19.095527,-90.508196,nubes,MX,Carrillo Puerto,Campeche,Mexico,False,True,False,2024-07-09
+Guadalcázar,22.680046,-100.357364,lluvia moderada,MX,El Oro,San Luis Potosí,Mexico,False,False,False,2024-07-09
+Benito Juárez,29.911434,-107.827213,nubes dispersas,MX,Ejido Álvaro Obregón,Chihuahua,Mexico,False,False,False,2024-07-09
+Barra de Tecoanapa,15.702485,-99.009593,nubes dispersas,MX,,,,False,False,False,2024-07-09
+Guerrero Negro,27.266285,-115.318506,cielo claro,MX,,,,False,False,False,2024-07-09
+Santa Rosalía,27.519281,-112.229017,cielo claro,MX,Santa María,Baja California Sur,Mexico,False,False,False,2024-07-09
+Rosarito,31.981683,-117.916966,nubes dispersas,MX,,,,False,False,False,2024-07-09
+Teocuitatlán de Corona,20.130972,-103.45697,lluvia moderada,MX,San José de Gracia,Jalisco,Mexico,False,False,False,2024-07-09
+Rodeo,25.228865,-104.896049,muy nuboso,MX,Unión y Progreso,Durango,Mexico,False,False,False,2024-07-09
+Isla Aguada,18.947026,-91.588514,lluvia ligera,MX,,,,False,False,False,2024-07-09
+Churumuco de Morelos,18.595306,-101.476291,algo de nubes,MX,Rincón de las Truchas,Michoacán,Mexico,False,False,False,2024-07-09
+Churumuco de Morelos,18.582493,-101.949494,lluvia ligera,MX,Balsas,Michoacán,Mexico,False,False,False,2024-07-09
+Progreso,22.449865,-89.658147,lluvia ligera,MX,,,,False,False,False,2024-07-09
+Teúl de González Ortega,21.297987,-103.584528,lluvia ligera,MX,La Lagunilla,Zacatecas,Mexico,False,False,False,2024-07-09
+Ocampo,27.903163,-103.472859,cielo claro,MX,La Concordia,Coahuila de Zaragoza,Mexico,False,False,False,2024-07-09
+El Carrizo,24.139546,-106.836442,lluvia ligera,MX,El Aguaje,Sinaloa,Mexico,False,False,False,2024-07-09
+Nicolás Bravo,18.82947,-89.262336,nubes,MX,Unión 20 de Junio,Campeche,Mexico,False,False,False,2024-07-09
+Toluca,19.282733,-99.635643,algo de nubes,MX,Violeta,022,Izcalli Toluca,False,False,False,2024-07-09
+Cabo San Lucas,21.765547,-110.010759,cielo claro,MX,,,,False,False,False,2024-07-09
+Cintalapa de Figueroa,16.546715,-93.881642,nubes,MX,Coronel Luis Espinosa,Chiapas,Mexico,False,False,False,2024-07-09
+Abasolo,20.411539,-101.505487,nubes,MX,Los Otates,Guanajuato,Mexico,False,False,False,2024-07-09
+Celestún,21.550002,-91.160213,lluvia ligera,MX,,,,False,False,False,2024-07-09
+Mina,26.133451,-100.772784,nubes,MX,San Francisco,Nuevo Leon,Mexico,False,False,False,2024-07-09
+Cadereyta,20.839531,-99.661225,nubes dispersas,MX,El Membrillo,Querétaro,Mexico,False,False,False,2024-07-09
+Chuta,17.23945,-102.870491,algo de nubes,MX,,,,False,False,False,2024-07-09
+Pilar,28.549163,-110.273111,cielo claro,MX,San Marcial,Sonora,Mexico,False,False,False,2024-07-09
+Llera de Canales,23.307046,-98.745466,nubes dispersas,MX,Estación Forlon,Tamaulipas,Mexico,False,False,False,2024-07-09
+Palenque/Temp,17.34038,-92.065388,nubes,MX,Santa María,Chiapas,Mexico,False,False,False,2024-07-09
+Mazatlán,22.801731,-106.83181,muy nuboso,MX,,,,False,False,False,2024-07-09
+Etchoropo,26.577475,-110.280752,lluvia moderada,MX,,,,False,False,False,2024-07-09
+Ciudad Juárez,31.737162,-106.450954,cielo claro,MX,Avenida Paseo Triunfo de la República,Partido Escobedo,Juárez,False,False,False,2024-07-09
+Santa Bárbara,26.532194,-106.426919,muy nuboso,MX,Ejido la Pinta,Chihuahua,Mexico,False,False,False,2024-07-09
+Copala,16.074216,-99.226831,nubes dispersas,MX,,,,False,False,False,2024-07-09
+Santa Anita,23.202504,-109.704099,cielo claro,MX,San José del Cabo,Baja California Sur,Mexico,False,False,False,2024-07-09
+Jaumave,23.255503,-99.542223,muy nuboso,MX,Palmillas,Tamaulipas,Mexico,False,False,False,2024-07-09
+Cuetzala del Progreso,18.014921,-99.798309,lluvia ligera,MX,Balsas Sur,Guerrero,Mexico,False,False,False,2024-07-09
+Ejido Plan de Guadalupe,25.658742,-109.245829,nubes dispersas,MX,Santa María,Sinaloa,Mexico,False,False,False,2024-07-09
+Nuevo Progreso,23.838643,-96.677399,nubes,MX,,,,False,False,False,2024-07-09
+Heroica Caborca,30.346001,-112.321665,cielo claro,MX,El Viejo,Sonora,Mexico,False,False,False,2024-07-09
+Sayulita,21.133486,-105.861125,algo de nubes,MX,,,,False,False,False,2024-07-09
+Cosalá,24.801483,-106.40609,lluvia ligera,MX,Rancho Viejo,Durango,Mexico,False,False,False,2024-07-09
+Nuevo Progreso,23.359528,-98.13319,algo de nubes,MX,La Peña,Tamaulipas,Mexico,False,False,False,2024-07-09
+Ciudad Insurgentes,25.409144,-112.583418,cielo claro,MX,,,,False,False,False,2024-07-09

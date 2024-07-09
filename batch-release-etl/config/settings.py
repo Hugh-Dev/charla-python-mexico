@@ -6,7 +6,8 @@
 
 from scripts.libs import *
 
-file_env = '/Users/psf/Projects/pylab/charla-python-mexico/batch-release-etl/environments/.env'
+root_path = os.getcwd()
+file_env = f'{root_path}/environments/.env'
 load_dotenv(dotenv_path=file_env)
 
 URL_API = os.getenv('URL_API')
